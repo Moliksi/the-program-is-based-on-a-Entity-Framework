@@ -1,0 +1,288 @@
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\x86\e_sqlite3.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\x64\e_sqlite3.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\WinEntityKozlow.exe.config
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\WinEntityKozlow.exe
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\WinEntityKozlow.pdb
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Newtonsoft.Json.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Remotion.Linq.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\SQLitePCLRaw.batteries_green.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\SQLitePCLRaw.core.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\System.Buffers.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\System.Collections.Immutable.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\System.Interactive.Async.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\System.Memory.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\System.Numerics.Vectors.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Newtonsoft.Json.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\Remotion.Linq.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\System.Buffers.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\System.Collections.Immutable.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\System.Interactive.Async.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\System.Memory.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\System.Numerics.Vectors.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\obj\Debug\WinEntityKozlow.csproj.AssemblyReference.cache
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\obj\Debug\WinEntityKozlow.Form1.resources
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\obj\Debug\WinEntityKozlow.Properties.Resources.resources
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\obj\Debug\WinEntityKozlow.csproj.GenerateResource.cache
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\obj\Debug\WinEntityKozlow.csproj.CoreCompileInputs.cache
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\obj\Debug\WinEntityKozlow.csproj.CopyComplete
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\obj\Debug\WinEntityKozlow.exe
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\obj\Debug\WinEntityKozlow.pdb
+C:\WinEntityKozlow\bin\Debug\x86\e_sqlite3.dll
+C:\WinEntityKozlow\bin\Debug\x64\e_sqlite3.dll
+C:\WinEntityKozlow\bin\Debug\WinEntityKozlow.exe.config
+C:\WinEntityKozlow\bin\Debug\WinEntityKozlow.exe
+C:\WinEntityKozlow\bin\Debug\WinEntityKozlow.pdb
+C:\WinEntityKozlow\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\WinEntityKozlow\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Options.dll
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\WinEntityKozlow\bin\Debug\Newtonsoft.Json.dll
+C:\WinEntityKozlow\bin\Debug\Remotion.Linq.dll
+C:\WinEntityKozlow\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\WinEntityKozlow\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\WinEntityKozlow\bin\Debug\SQLitePCLRaw.core.dll
+C:\WinEntityKozlow\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\WinEntityKozlow\bin\Debug\System.Buffers.dll
+C:\WinEntityKozlow\bin\Debug\System.Collections.Immutable.dll
+C:\WinEntityKozlow\bin\Debug\System.ComponentModel.Annotations.dll
+C:\WinEntityKozlow\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\WinEntityKozlow\bin\Debug\System.Interactive.Async.dll
+C:\WinEntityKozlow\bin\Debug\System.Memory.dll
+C:\WinEntityKozlow\bin\Debug\System.Numerics.Vectors.dll
+C:\WinEntityKozlow\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\WinEntityKozlow\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Options.xml
+C:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\WinEntityKozlow\bin\Debug\Newtonsoft.Json.xml
+C:\WinEntityKozlow\bin\Debug\Remotion.Linq.xml
+C:\WinEntityKozlow\bin\Debug\System.Buffers.xml
+C:\WinEntityKozlow\bin\Debug\System.Collections.Immutable.xml
+C:\WinEntityKozlow\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\WinEntityKozlow\bin\Debug\System.Interactive.Async.xml
+C:\WinEntityKozlow\bin\Debug\System.Memory.xml
+C:\WinEntityKozlow\bin\Debug\System.Numerics.Vectors.xml
+C:\WinEntityKozlow\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\WinEntityKozlow\obj\Debug\WinEntityKozlow.csprojAssemblyReference.cache
+C:\WinEntityKozlow\obj\Debug\WinEntityKozlow.Form1.resources
+C:\WinEntityKozlow\obj\Debug\WinEntityKozlow.Properties.Resources.resources
+C:\WinEntityKozlow\obj\Debug\WinEntityKozlow.csproj.GenerateResource.cache
+C:\WinEntityKozlow\obj\Debug\WinEntityKozlow.csproj.CoreCompileInputs.cache
+C:\WinEntityKozlow\obj\Debug\WinEntityKozlow.csproj.CopyComplete
+C:\WinEntityKozlow\obj\Debug\WinEntityKozlow.exe
+C:\WinEntityKozlow\obj\Debug\WinEntityKozlow.pdb
+C:\WinEntityKozlow\obj\Debug\WinEntityKozlow.AddCategory.resources
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\obj\Debug\WinEntityKozlow.AddCategory.resources
+E:\Домашка по программированию 2 курс 2 семестр\WinEntityKozlow\obj\Debug\WinEntityKozlow.AddProduct.resources
+C:\WinEntityKozlow\obj\Debug\WinEntityKozlow.AddProduct.resources
+G:\WinEntityKozlow\bin\Debug\x86\e_sqlite3.dll
+G:\WinEntityKozlow\bin\Debug\x64\e_sqlite3.dll
+G:\WinEntityKozlow\bin\Debug\WinEntityKozlow.exe.config
+G:\WinEntityKozlow\bin\Debug\WinEntityKozlow.exe
+G:\WinEntityKozlow\bin\Debug\WinEntityKozlow.pdb
+G:\WinEntityKozlow\bin\Debug\Microsoft.Data.Sqlite.dll
+G:\WinEntityKozlow\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+G:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.dll
+G:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+G:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.dll
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Logging.dll
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Options.dll
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\WinEntityKozlow\bin\Debug\Newtonsoft.Json.dll
+G:\WinEntityKozlow\bin\Debug\Remotion.Linq.dll
+G:\WinEntityKozlow\bin\Debug\SQLitePCLRaw.batteries_green.dll
+G:\WinEntityKozlow\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+G:\WinEntityKozlow\bin\Debug\SQLitePCLRaw.core.dll
+G:\WinEntityKozlow\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+G:\WinEntityKozlow\bin\Debug\System.Buffers.dll
+G:\WinEntityKozlow\bin\Debug\System.Collections.Immutable.dll
+G:\WinEntityKozlow\bin\Debug\System.ComponentModel.Annotations.dll
+G:\WinEntityKozlow\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\WinEntityKozlow\bin\Debug\System.Interactive.Async.dll
+G:\WinEntityKozlow\bin\Debug\System.Memory.dll
+G:\WinEntityKozlow\bin\Debug\System.Numerics.Vectors.dll
+G:\WinEntityKozlow\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\WinEntityKozlow\bin\Debug\Microsoft.Data.Sqlite.xml
+G:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.xml
+G:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+G:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+G:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.xml
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Logging.xml
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Options.xml
+G:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\WinEntityKozlow\bin\Debug\Newtonsoft.Json.xml
+G:\WinEntityKozlow\bin\Debug\Remotion.Linq.xml
+G:\WinEntityKozlow\bin\Debug\System.Buffers.xml
+G:\WinEntityKozlow\bin\Debug\System.Collections.Immutable.xml
+G:\WinEntityKozlow\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\WinEntityKozlow\bin\Debug\System.Interactive.Async.xml
+G:\WinEntityKozlow\bin\Debug\System.Memory.xml
+G:\WinEntityKozlow\bin\Debug\System.Numerics.Vectors.xml
+G:\WinEntityKozlow\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\WinEntityKozlow\obj\Debug\WinEntityKozlow.csproj.AssemblyReference.cache
+G:\WinEntityKozlow\obj\Debug\WinEntityKozlow.AddCategory.resources
+G:\WinEntityKozlow\obj\Debug\WinEntityKozlow.AddProduct.resources
+G:\WinEntityKozlow\obj\Debug\WinEntityKozlow.Form1.resources
+G:\WinEntityKozlow\obj\Debug\WinEntityKozlow.Properties.Resources.resources
+G:\WinEntityKozlow\obj\Debug\WinEntityKozlow.csproj.GenerateResource.cache
+G:\WinEntityKozlow\obj\Debug\WinEntityKozlow.csproj.CoreCompileInputs.cache
+G:\WinEntityKozlow\obj\Debug\WinEntityKozlow.csproj.CopyComplete
+G:\WinEntityKozlow\obj\Debug\WinEntityKozlow.exe
+G:\WinEntityKozlow\obj\Debug\WinEntityKozlow.pdb
+F:\WinEntityKozlow\bin\Debug\x86\e_sqlite3.dll
+F:\WinEntityKozlow\bin\Debug\x64\e_sqlite3.dll
+F:\WinEntityKozlow\bin\Debug\WinEntityKozlow.exe.config
+F:\WinEntityKozlow\bin\Debug\WinEntityKozlow.exe
+F:\WinEntityKozlow\bin\Debug\WinEntityKozlow.pdb
+F:\WinEntityKozlow\bin\Debug\Microsoft.Data.Sqlite.dll
+F:\WinEntityKozlow\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+F:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.dll
+F:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+F:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Options.dll
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\WinEntityKozlow\bin\Debug\Newtonsoft.Json.dll
+F:\WinEntityKozlow\bin\Debug\Remotion.Linq.dll
+F:\WinEntityKozlow\bin\Debug\SQLitePCLRaw.batteries_green.dll
+F:\WinEntityKozlow\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\WinEntityKozlow\bin\Debug\SQLitePCLRaw.core.dll
+F:\WinEntityKozlow\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\WinEntityKozlow\bin\Debug\System.Buffers.dll
+F:\WinEntityKozlow\bin\Debug\System.Collections.Immutable.dll
+F:\WinEntityKozlow\bin\Debug\System.ComponentModel.Annotations.dll
+F:\WinEntityKozlow\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\WinEntityKozlow\bin\Debug\System.Interactive.Async.dll
+F:\WinEntityKozlow\bin\Debug\System.Memory.dll
+F:\WinEntityKozlow\bin\Debug\System.Numerics.Vectors.dll
+F:\WinEntityKozlow\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\WinEntityKozlow\bin\Debug\Microsoft.Data.Sqlite.xml
+F:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.xml
+F:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+F:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+F:\WinEntityKozlow\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Options.xml
+F:\WinEntityKozlow\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\WinEntityKozlow\bin\Debug\Newtonsoft.Json.xml
+F:\WinEntityKozlow\bin\Debug\Remotion.Linq.xml
+F:\WinEntityKozlow\bin\Debug\System.Buffers.xml
+F:\WinEntityKozlow\bin\Debug\System.Collections.Immutable.xml
+F:\WinEntityKozlow\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\WinEntityKozlow\bin\Debug\System.Interactive.Async.xml
+F:\WinEntityKozlow\bin\Debug\System.Memory.xml
+F:\WinEntityKozlow\bin\Debug\System.Numerics.Vectors.xml
+F:\WinEntityKozlow\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\WinEntityKozlow\obj\Debug\WinEntityKozlow.csproj.AssemblyReference.cache
+F:\WinEntityKozlow\obj\Debug\WinEntityKozlow.AddCategory.resources
+F:\WinEntityKozlow\obj\Debug\WinEntityKozlow.AddProduct.resources
+F:\WinEntityKozlow\obj\Debug\WinEntityKozlow.Form1.resources
+F:\WinEntityKozlow\obj\Debug\WinEntityKozlow.Properties.Resources.resources
+F:\WinEntityKozlow\obj\Debug\WinEntityKozlow.csproj.GenerateResource.cache
+F:\WinEntityKozlow\obj\Debug\WinEntityKozlow.csproj.CoreCompileInputs.cache
+F:\WinEntityKozlow\obj\Debug\WinEntityKozlow.csproj.CopyComplete
+F:\WinEntityKozlow\obj\Debug\WinEntityKozlow.exe
+F:\WinEntityKozlow\obj\Debug\WinEntityKozlow.pdb
